@@ -1,0 +1,1 @@
+com.cedarsoft.deger.pdf.Messages.get("${PROPERTY_KEY}")

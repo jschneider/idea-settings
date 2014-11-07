@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="GroovyRefactoringSettings">
+    <option name="SPECIFY_TYPE_EXPLICITLY" value="false" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+</application>
+

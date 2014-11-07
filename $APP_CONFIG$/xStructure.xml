@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="XStructureSettings">
+    <option name="mappingsStorageDir" value="$USER_HOME$/.IntelliJIdea11/config/xstructure" />
+    <option name="overwriteWhenSyncMappings" value="true" />
+    <option name="syncMappingsAtStartup" value="true" />
+  </component>
+</application>
+

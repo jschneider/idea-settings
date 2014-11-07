@@ -1,0 +1,19 @@
+<application>
+  <component name="UISettings">
+    <option name="FONT_FACE" value="Segoe UI" />
+    <option name="FONT_SIZE" value="11" />
+    <option name="RECENT_FILES_LIMIT" value="30" />
+    <option name="HIDE_TOOL_STRIPES" value="false" />
+    <option name="WIDESCREEN_SUPPORT" value="true" />
+    <option name="LEFT_HORIZONTAL_SPLIT" value="true" />
+    <option name="RIGHT_HORIZONTAL_SPLIT" value="true" />
+    <option name="SHOW_MEMORY_INDICATOR" value="true" />
+    <option name="ALLOW_MERGE_BUTTONS" value="false" />
+    <option name="CLOSE_NON_MODIFIED_FILES_FIRST" value="true" />
+    <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
+    <option name="MAX_CLIPBOARD_CONTENTS" value="25" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="37" />
+  </component>
+</application>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="IDEA_HOME" value="/opt/idea-9572" />
+    <macro name="MAVEN_REPOSITORY" value="/home/johannes/.m2/repository" />
+    <macro name="PLUGINS_PATH" value="/home/johannes/.IntelliJIdea13/config/plugins" />
+  </component>
+</application>
+

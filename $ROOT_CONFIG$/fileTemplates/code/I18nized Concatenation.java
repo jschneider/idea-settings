@@ -1,0 +1,1 @@
+eu.cedarsoft.devtools.MessageHandler.get("${PROPERTY_KEY}", ${PARAMETERS} )
