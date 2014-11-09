@@ -1955,22 +1955,22 @@
     <option name="EMAIL" value="" />
   </component>
   <component name="ExternalResourceManagerImpl">
-    <resource url="http://www.topografix.com/GPX/1/0/gpx.xsd" location="$USER_HOME$/.IntelliJIdea8x/system/extResources/684cdad3_gpx.xsd" />
-    <resource url="http://www.avat.de/jview/permissions.dtd" location="$USER_HOME$/projects/de.avat.jview/common/security/core/src/main/resources/permissions.dtd" />
-    <resource url="http://maven.apache.org/xsd/decoration-1.0.0.xsd" location="$USER_HOME$/.IntelliJIdea8x/system/extResources/9c3a2f6f_decoration-1.0.0.xsd" />
     <resource url="http://maven.apache.org/xsd/assembly-1.0.0.xsd" location="$USER_HOME$/.IntelliJIdea8x/system/extResources/13b68825_assembly-1.0.0.xsd" />
-    <resource url="http://www.w3.org/2001/XMLSchema-instance" location="$USER_HOME$/.IntelliJIdea8x/system/extResources/631eabe6_XMLSchema-instance.xml" />
+    <resource url="http://maven.apache.org/xsd/decoration-1.0.0.xsd" location="$USER_HOME$/.IntelliJIdea8x/system/extResources/9c3a2f6f_decoration-1.0.0.xsd" />
     <resource url="http://maven.apache.org/POM/4.0.0" location="$USER_HOME$/.IntelliJIdea8x/system/extResources/13b68825_assembly-1.0.0.xsd" />
-    <resource url="http://plugins.intellij.net/xstructure/ns/xstructure_1_0.xsd" location="$USER_HOME$/file:/home/johannes/.IntelliJIdea14/config/plugins/xstructure/lib/xstructure.jar!/org/sylfra/idea/plugins/xstructure/resources/schemas/xstructure_1_0.xsd" />
-    <resource url="http://plugins.intellij.net/xstructure/ns/xstructure_1_1.xsd" location="$USER_HOME$/file:/home/johannes/.IntelliJIdea14/config/plugins/xstructure/lib/xstructure.jar!/org/sylfra/idea/plugins/xstructure/resources/schemas/xstructure_1_1.xsd" />
-    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
-    <ignored-resource url="http://jakarta.apache.org/log4j" />
-    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
-    <ignored-resource url="http://www.terracotta.org/config" />
-    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <resource url="http://plugins.intellij.net/xstructure/ns/xstructure_1_1.xsd" location="/etc/intellij-idea/file:/home/johannes/.IntelliJIdea14/config/plugins/xstructure/lib/xstructure.jar!/org/sylfra/idea/plugins/xstructure/resources/schemas/xstructure_1_1.xsd" />
+    <resource url="http://www.w3.org/2001/XMLSchema-instance" location="$USER_HOME$/.IntelliJIdea8x/system/extResources/631eabe6_XMLSchema-instance.xml" />
+    <resource url="http://plugins.intellij.net/xstructure/ns/xstructure_1_0.xsd" location="/etc/intellij-idea/file:/home/johannes/.IntelliJIdea14/config/plugins/xstructure/lib/xstructure.jar!/org/sylfra/idea/plugins/xstructure/resources/schemas/xstructure_1_0.xsd" />
+    <resource url="http://www.avat.de/jview/permissions.dtd" location="$USER_HOME$/projects/de.avat.jview/common/security/core/src/main/resources/permissions.dtd" />
+    <resource url="http://www.topografix.com/GPX/1/0/gpx.xsd" location="$USER_HOME$/.IntelliJIdea8x/system/extResources/684cdad3_gpx.xsd" />
     <ignored-resource url="http://www.w3.org/1999/XSL/Format" />
     <ignored-resource url="http://www.w3.org/1999/xhtml" />
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="http://www.terracotta.org/config" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
+    <ignored-resource url="http://jakarta.apache.org/log4j" />
   </component>
   <component name="FileTemplateManager">
     <deleted_templates>
