@@ -1,0 +1,41 @@
+<templateSet group="JavaFX">
+  <template name="fxprop" value="@javax.annotation.Nonnull&#10;private final javafx.beans.property.Property&lt;$type$&gt; $propertyName$ = new $PropertyClass$&lt;&gt;();&#10;&#10;@javax.annotation.Nonnull &#10;public javafx.beans.property.Property&lt;$type$&gt; $propertyName$Property(){&#10;  return $propertyName$;&#10;}&#10;&#10;@javax.annotation.Nonnull &#10;public $type$ get$propertyNameLarge$() throws IllegalStateException{&#10;  @javax.annotation.Nullable $type$ value = this.$propertyName$.getValue();&#10;  if ( value == null ) {&#10;    throw new IllegalStateException( &quot;No value set for &lt;$propertyName$&gt;&quot; );&#10;  }&#10;  return value;&#10;}&#10;&#10;public void set$propertyNameLarge$(@javax.annotation.Nonnull  $type$ $propertyName$){&#10;  this.$propertyName$.setValue($propertyName$);&#10;}&#10;" description="JavaFX Property" toReformat="true" toShortenFQNames="true">
+    <variable name="type" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <variable name="propertyName" expression="decapitalize(type)" defaultValue="" alwaysStopAt="true" />
+    <variable name="PropertyClass" expression="classNameComplete()" defaultValue="javafx.beans.property.SimpleObjectProperty" alwaysStopAt="true" />
+    <variable name="propertyNameLarge" expression="capitalize(propertyName)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_STATEMENT" value="false" />
+      <option name="JAVA_EXPRESSION" value="false" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+      <option name="COMPLETION" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
+      <option name="JSP" value="false" />
+      <option name="SQL" value="false" />
+      <option name="ColdFusion" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="GROOVY_EXPRESSION" value="false" />
+      <option name="GROOVY_STATEMENT" value="false" />
+      <option name="GROOVY_DECLARATION" value="false" />
+      <option name="MAVEN" value="false" />
+      <option name="ACTION_SCRIPT" value="false" />
+      <option name="MXML" value="false" />
+      <option name="HAML" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+</templateSet>
