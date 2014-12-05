@@ -1,0 +1,19 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="log.debug.categories" value="" />
+    <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
+    <property name="DefaultHtmlDoctype.Refreshed" value="1" />
+    <property name="machine_id" value="3dypefofwgy2iqhszn6tcldl2" />
+    <property name="machine_name" value="DeAnn Heavner" />
+    <property name="installation.uid" value="622ef52c-d47c-47dd-81db-0f8a8139977d" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="file.colors.enable.non.project" value="Yellow" />
+    <property name="file.colors.enable.tests" value="Green" />
+  </component>
+</application>

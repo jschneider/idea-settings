@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="CommunityFileTypes" version="11">
     <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;*.rbc;" />
@@ -14,6 +13,16 @@
   <component name="FileTypeManager" version="11">
     <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.sbas;.IJI.*;vssver.scc;vssver2.scc;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.orig;*.lib;*~;__pycache__;.bundle;*.rbc;" />
     <extensionMap>
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="vw" type="DBN-SQL" />
       <mapping ext="tiff" type="Images" />
       <mapping pattern="version" type="PLAIN_TEXT" />
       <mapping pattern="kuerzel" type="PLAIN_TEXT" />
@@ -21,43 +30,42 @@
       <mapping pattern="links" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping ext="props" type="PLAIN_TEXT" />
-      <mapping ext="cr4" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
+      <mapping ext="j3md" type="PLAIN_TEXT" />
       <mapping ext="dxf" type="PLAIN_TEXT" />
       <mapping ext="cypher" type="PLAIN_TEXT" />
+      <mapping ext="has" type="PLAIN_TEXT" />
       <mapping ext="header" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="obj" type="PLAIN_TEXT" />
-      <mapping ext="clusters" type="PLAIN_TEXT" />
       <mapping ext="tex" type="PLAIN_TEXT" />
+      <mapping ext="clusters" type="PLAIN_TEXT" />
+      <mapping ext="ics" type="PLAIN_TEXT" />
       <mapping ext="frag" type="PLAIN_TEXT" />
       <mapping ext="vert" type="PLAIN_TEXT" />
       <mapping ext="detailed" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
-      <mapping ext="ics" type="PLAIN_TEXT" />
       <mapping ext="apt" type="PLAIN_TEXT" />
       <mapping ext="translation" type="PLAIN_TEXT" />
       <mapping ext="rdoc" type="PLAIN_TEXT" />
       <mapping ext="h6m" type="PLAIN_TEXT" />
       <mapping ext="cr6" type="PLAIN_TEXT" />
       <mapping ext="cr3" type="PLAIN_TEXT" />
-      <mapping ext="der" type="PLAIN_TEXT" />
       <mapping ext="h40" type="PLAIN_TEXT" />
       <mapping ext="col" type="PLAIN_TEXT" />
-      <mapping ext="has" type="PLAIN_TEXT" />
-      <mapping ext="j3md" type="PLAIN_TEXT" />
+      <mapping ext="der" type="PLAIN_TEXT" />
+      <mapping ext="cr4" type="PLAIN_TEXT" />
       <mapping ext="svg" type="XML" />
-      <mapping ext="gpx" type="XML" />
       <mapping ext="ufraw" type="XML" />
       <mapping ext="install4j" type="XML" />
-      <mapping ext="xdoc" type="XML" />
+      <mapping ext="fml" type="XML" />
       <mapping ext="jrxml" type="XML" />
       <mapping ext="jrtx" type="XML" />
-      <mapping ext="fml" type="XML" />
+      <mapping ext="xdoc" type="XML" />
+      <mapping ext="gpx" type="XML" />
       <mapping ext="gxl" type="XML" />
       <mapping ext="fo" type="XML" />
     </extensionMap>
-    <setting name="fileTypeChangedCounter" value="1" />
+    <setting name="fileTypeChangedCounter" value="11" />
   </component>
 </application>
-

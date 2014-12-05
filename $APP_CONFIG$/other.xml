@@ -1187,6 +1187,11 @@
       </option>
     </Configuration>
   </component>
+  <component name="DBNavigator.Application.Settings">
+    <enable-debug-mode value="false" />
+    <enable-developer-mode value="false" />
+    <show-plugin-conflict-dialog value="false" />
+  </component>
   <component name="DebuggerSettings">
     <option name="TRACING_FILTERS_ENABLED" value="true" />
     <option name="SKIP_SYNTHETIC_METHODS" value="true" />
@@ -1955,21 +1960,27 @@
     <option name="EMAIL" value="" />
   </component>
   <component name="ExternalResourceManagerImpl">
-    <resource url="http://www.topografix.com/GPX/1/0/gpx.xsd" location="$USER_HOME$/.IntelliJIdea8x/system/extResources/684cdad3_gpx.xsd" />
-    <resource url="http://www.avat.de/jview/permissions.dtd" location="$USER_HOME$/projects/de.avat.jview/common/security/core/src/main/resources/permissions.dtd" />
-    <resource url="http://maven.apache.org/xsd/decoration-1.0.0.xsd" location="$USER_HOME$/.IntelliJIdea8x/system/extResources/9c3a2f6f_decoration-1.0.0.xsd" />
     <resource url="http://maven.apache.org/xsd/assembly-1.0.0.xsd" location="$USER_HOME$/.IntelliJIdea8x/system/extResources/13b68825_assembly-1.0.0.xsd" />
-    <resource url="http://www.w3.org/2001/XMLSchema-instance" location="$USER_HOME$/.IntelliJIdea8x/system/extResources/631eabe6_XMLSchema-instance.xml" />
+    <resource url="http://maven.apache.org/xsd/decoration-1.0.0.xsd" location="$USER_HOME$/.IntelliJIdea8x/system/extResources/9c3a2f6f_decoration-1.0.0.xsd" />
     <resource url="http://maven.apache.org/POM/4.0.0" location="$USER_HOME$/.IntelliJIdea8x/system/extResources/13b68825_assembly-1.0.0.xsd" />
-    <resource url="http://plugins.intellij.net/xstructure/ns/xstructure_1_0.xsd" location="$USER_HOME$/file:/home/johannes/.IntelliJIdea14/config/plugins/xstructure/lib/xstructure.jar!/org/sylfra/idea/plugins/xstructure/resources/schemas/xstructure_1_0.xsd" />
     <resource url="http://plugins.intellij.net/xstructure/ns/xstructure_1_1.xsd" location="$USER_HOME$/file:/home/johannes/.IntelliJIdea14/config/plugins/xstructure/lib/xstructure.jar!/org/sylfra/idea/plugins/xstructure/resources/schemas/xstructure_1_1.xsd" />
-    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
-    <ignored-resource url="http://jakarta.apache.org/log4j" />
-    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
+    <resource url="http://www.w3.org/2001/XMLSchema-instance" location="$USER_HOME$/.IntelliJIdea8x/system/extResources/631eabe6_XMLSchema-instance.xml" />
+    <resource url="http://plugins.intellij.net/xstructure/ns/xstructure_1_0.xsd" location="$USER_HOME$/file:/home/johannes/.IntelliJIdea14/config/plugins/xstructure/lib/xstructure.jar!/org/sylfra/idea/plugins/xstructure/resources/schemas/xstructure_1_0.xsd" />
+    <resource url="http://www.avat.de/jview/permissions.dtd" location="$USER_HOME$/projects/de.avat.jview/common/security/core/src/main/resources/permissions.dtd" />
+    <resource url="http://www.topografix.com/GPX/1/0/gpx.xsd" location="$USER_HOME$/.IntelliJIdea8x/system/extResources/684cdad3_gpx.xsd" />
+    <ignored-resource url="http://exslt.org/strings" />
+    <ignored-resource url="http://exslt.org/math" />
     <ignored-resource url="http://www.terracotta.org/config" />
     <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
+    <ignored-resource url="http://exslt.org/common" />
+    <ignored-resource url="http://jakarta.apache.org/log4j" />
     <ignored-resource url="http://www.w3.org/1999/XSL/Format" />
     <ignored-resource url="http://www.w3.org/1999/xhtml" />
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="http://exslt.org/dynamic" />
+    <ignored-resource url="http://exslt.org/sets" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
   </component>
   <component name="FileTemplateManager">
@@ -2310,19 +2321,20 @@
         <option name="EFFECT_TYPE" value="0" />
       </option>
     </info>
-    <list size="12">
+    <list size="13">
       <item index="0" class="java.lang.String" itemvalue="GENERICS" />
       <item index="1" class="java.lang.String" itemvalue="MinorImprovementPossible" />
-      <item index="2" class="java.lang.String" itemvalue="TYPO" />
-      <item index="3" class="java.lang.String" itemvalue="Spring Overwrite" />
-      <item index="4" class="java.lang.String" itemvalue="Serialization" />
-      <item index="5" class="java.lang.String" itemvalue="SERVER PROBLEM" />
-      <item index="6" class="java.lang.String" itemvalue="WEAK WARNING" />
-      <item index="7" class="java.lang.String" itemvalue="INFO" />
-      <item index="8" class="java.lang.String" itemvalue="WARNING" />
-      <item index="9" class="java.lang.String" itemvalue="i18n" />
-      <item index="10" class="java.lang.String" itemvalue="ERROR" />
-      <item index="11" class="java.lang.String" itemvalue="JAVADOC" />
+      <item index="2" class="java.lang.String" itemvalue="GITIGNORE.UNUSED_ENTRY" />
+      <item index="3" class="java.lang.String" itemvalue="TYPO" />
+      <item index="4" class="java.lang.String" itemvalue="Spring Overwrite" />
+      <item index="5" class="java.lang.String" itemvalue="Serialization" />
+      <item index="6" class="java.lang.String" itemvalue="SERVER PROBLEM" />
+      <item index="7" class="java.lang.String" itemvalue="WEAK WARNING" />
+      <item index="8" class="java.lang.String" itemvalue="INFO" />
+      <item index="9" class="java.lang.String" itemvalue="WARNING" />
+      <item index="10" class="java.lang.String" itemvalue="i18n" />
+      <item index="11" class="java.lang.String" itemvalue="ERROR" />
+      <item index="12" class="java.lang.String" itemvalue="JAVADOC" />
     </list>
   </component>
   <component name="IntelliJadConfigComponent">
@@ -3458,42 +3470,12 @@
     </debuggers>
   </component>
   <component name="XPathView.XPathViewPlugin">
-    <option name="SHOW_IN_TOOLBAR" value="true" />
-    <option name="SHOW_IN_MAIN_MENU" value="true" />
-    <option name="OPEN_NEW_TAB" value="false" />
-    <option name="HIGHLIGHT_RESULTS" value="true" />
-    <option name="SHOW_USAGE_VIEW" value="false" />
-    <option name="SEARCH_SCOPE">
-      <value type="PROJECT" />
-    </option>
-    <option name="MATCH_RECURSIVELY" value="false" />
     <option name="attributes">
-      <value>
-        <option name="FOREGROUND" />
-        <option name="BACKGROUND" value="ffd578" />
-        <option name="FONT_TYPE" value="0" />
-        <option name="EFFECT_COLOR" />
-        <option name="EFFECT_TYPE" value="-1" />
-        <option name="ERROR_STRIPE_COLOR" />
-      </value>
+      <TextAttributes />
     </option>
     <option name="contextAttributes">
-      <value>
-        <option name="FOREGROUND" />
-        <option name="BACKGROUND" value="c2ffd4" />
-        <option name="FONT_TYPE" value="0" />
-        <option name="EFFECT_COLOR" />
-        <option name="EFFECT_TYPE" value="-1" />
-        <option name="ERROR_STRIPE_COLOR" />
-      </value>
+      <TextAttributes />
     </option>
-    <option name="scrollToFirst" value="true" />
-    <option name="bUseContextAtCursor" value="true" />
-    <option name="bHighlightStartTagOnly" value="true" />
-    <option name="bAddErrorStripe" value="true" />
-  </component>
-  <component name="XSLT-Support.Configuration">
-    <option name="SHOW_LINKED_FILES" value="true" />
   </component>
   <component name="com.intellij.codeInspection.ejb.EjbDeadCodeExtension">
     <option name="ADD_EJB_TO_ENTRIES" value="true" />
