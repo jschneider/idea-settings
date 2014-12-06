@@ -562,21 +562,7 @@
       </profile-state>
     </entry>
     <entry key="cedarsoft">
-      <profile-state>
-        <expanded-state>
-          <State>
-            <id />
-          </State>
-          <State>
-            <id>Probable bugs</id>
-          </State>
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>ConstantConditions</id>
-          </State>
-        </selected-state>
-      </profile-state>
+      <profile-state />
     </entry>
     <entry key="unnecessary fqn">
       <profile-state>
