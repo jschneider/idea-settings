@@ -1,0 +1,68 @@
+<keymap version="1" name="Shake" parent="$default">
+  <action id="CheckinFiles">
+    <keyboard-shortcut first-keystroke="shift control K" />
+  </action>
+  <action id="ChooseTest">
+    <keyboard-shortcut first-keystroke="F10" />
+  </action>
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="control alt Q" />
+  </action>
+  <action id="CodeHistoryMiningPopup">
+    <keyboard-shortcut first-keystroke="shift alt H" />
+  </action>
+  <action id="CollapseBlock" />
+  <action id="CollapseSelection" />
+  <action id="CommentByBlockComment" />
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="control SLASH" />
+    <keyboard-shortcut first-keystroke="control DIVIDE" />
+    <keyboard-shortcut first-keystroke="shift control 7" />
+  </action>
+  <action id="Cvs.UpdateProjectAction" />
+  <action id="DeclareIdentifier" />
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="control F" />
+  </action>
+  <action id="IncrementalSearch">
+    <keyboard-shortcut first-keystroke="alt F3" />
+  </action>
+  <action id="JavaDocEditor.JavaDocEditor">
+    <keyboard-shortcut first-keystroke="F11" />
+  </action>
+  <action id="Jdbc.OpenConsole" />
+  <action id="LatexPlugin.another" />
+  <action id="LatexPlugin.latex" />
+  <action id="LatexPlugin.pdflatex" />
+  <action id="Maven.CollapseAll">
+    <keyboard-shortcut first-keystroke="control SUBTRACT" />
+    <keyboard-shortcut first-keystroke="control MINUS" />
+  </action>
+  <action id="MethodDown" />
+  <action id="MethodUp" />
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="alt PAGE_UP" />
+  </action>
+  <action id="ReloadInBrowserAction">
+    <keyboard-shortcut first-keystroke="alt R" />
+  </action>
+  <action id="StartIdentifier" />
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt ENTER" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt DOWN" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt LEFT" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt RIGHT" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt UP" />
+  </action>
+  <action id="TestGestureAction" />
+  <action id="ToggleBookmark" />
+  <action id="ToggleBookmark7" />
+</keymap>
