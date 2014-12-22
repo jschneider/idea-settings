@@ -1944,9 +1944,9 @@
     <resource url="http://maven.apache.org/xsd/assembly-1.0.0.xsd" location="$USER_HOME$/.IntelliJIdea8x/system/extResources/13b68825_assembly-1.0.0.xsd" />
     <resource url="http://maven.apache.org/xsd/decoration-1.0.0.xsd" location="$USER_HOME$/.IntelliJIdea8x/system/extResources/9c3a2f6f_decoration-1.0.0.xsd" />
     <resource url="http://maven.apache.org/POM/4.0.0" location="$USER_HOME$/.IntelliJIdea8x/system/extResources/13b68825_assembly-1.0.0.xsd" />
-    <resource url="http://plugins.intellij.net/xstructure/ns/xstructure_1_1.xsd" location="$USER_HOME$/projects/de.avat.e2service/file:/home/johannes/.IntelliJIdea14/config/plugins/xstructure/lib/xstructure.jar!/org/sylfra/idea/plugins/xstructure/resources/schemas/xstructure_1_1.xsd" />
+    <resource url="http://plugins.intellij.net/xstructure/ns/xstructure_1_1.xsd" location="$USER_HOME$/file:/home/johannes/.IntelliJIdea14/config/plugins/xstructure/lib/xstructure.jar!/org/sylfra/idea/plugins/xstructure/resources/schemas/xstructure_1_1.xsd" />
     <resource url="http://www.w3.org/2001/XMLSchema-instance" location="$USER_HOME$/.IntelliJIdea8x/system/extResources/631eabe6_XMLSchema-instance.xml" />
-    <resource url="http://plugins.intellij.net/xstructure/ns/xstructure_1_0.xsd" location="$USER_HOME$/projects/de.avat.e2service/file:/home/johannes/.IntelliJIdea14/config/plugins/xstructure/lib/xstructure.jar!/org/sylfra/idea/plugins/xstructure/resources/schemas/xstructure_1_0.xsd" />
+    <resource url="http://plugins.intellij.net/xstructure/ns/xstructure_1_0.xsd" location="$USER_HOME$/file:/home/johannes/.IntelliJIdea14/config/plugins/xstructure/lib/xstructure.jar!/org/sylfra/idea/plugins/xstructure/resources/schemas/xstructure_1_0.xsd" />
     <resource url="http://www.avat.de/jview/permissions.dtd" location="$USER_HOME$/projects/de.avat.jview/common/security/core/src/main/resources/permissions.dtd" />
     <resource url="http://www.topografix.com/GPX/1/0/gpx.xsd" location="$USER_HOME$/.IntelliJIdea8x/system/extResources/684cdad3_gpx.xsd" />
     <ignored-resource url="http://www.w3.org/1999/XSL/Format" />
@@ -3370,40 +3370,6 @@
       <option name="ERROR_STRIPE_COLOR" value="ff" />
       <option name="EFFECT_TYPE" value="0" />
     </pattern>
-  </component>
-  <component name="UpdatesConfigurable">
-    <option name="myPluginHosts">
-      <value>
-        <list size="0" />
-      </value>
-    </option>
-    <option name="myKnownUpdateChannels">
-      <value>
-        <list size="7">
-          <item index="0" class="java.lang.String" itemvalue="idea90" />
-          <item index="1" class="java.lang.String" itemvalue="IDEA10" />
-          <item index="2" class="java.lang.String" itemvalue="IDEA11" />
-          <item index="3" class="java.lang.String" itemvalue="IDEA12" />
-          <item index="4" class="java.lang.String" itemvalue="IDEA_13_1_EAP" />
-          <item index="5" class="java.lang.String" itemvalue="IDEA13.1" />
-          <item index="6" class="java.lang.String" itemvalue="IDEA_14_EAP" />
-        </list>
-      </value>
-    </option>
-    <option name="myIgnoredBuildNumbers">
-      <value>
-        <list size="4">
-          <item index="0" class="java.lang.String" itemvalue="107.322" />
-          <item index="1" class="java.lang.String" itemvalue="110.3" />
-          <item index="2" class="java.lang.String" itemvalue="114.65" />
-          <item index="3" class="java.lang.String" itemvalue="117.281" />
-        </list>
-      </value>
-    </option>
-    <option name="CHECK_NEEDED" value="true" />
-    <option name="LAST_TIME_CHECKED" value="1413621755388" />
-    <option name="LAST_BUILD_CHECKED" value="IU-138.2458" />
-    <option name="UPDATE_CHANNEL_TYPE" value="eap" />
   </component>
   <component name="UsageFilteringRuleProvider">
     <option name="SHOW_IMPORTS" value="false" />

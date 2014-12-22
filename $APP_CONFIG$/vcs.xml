@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <application>
-  <component name="Git.Application.Settings">
-    <option name="myPathToGit" value="/usr/bin/git" />
-  </component>
   <component name="HgGlobalSettings">
     <option name="hgExecutable" value="hg" />
   </component>
@@ -10,4 +6,3 @@
     <option name="PATH_TO_GIT" value="/usr/bin/git" />
   </component>
 </application>
-
