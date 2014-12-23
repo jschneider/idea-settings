@@ -1958,6 +1958,13 @@
     <ignored-resource url="http://www.w3.org/2000/svg" />
     <ignored-resource url="http://jakarta.apache.org/log4j" />
   </component>
+  <component name="FileEditorProviderManager">
+    <option name="selectedProviders">
+      <map>
+        <entry key="text-editor,MavenHelperPluginDependencyAnalyzer" value="text-editor" />
+      </map>
+    </option>
+  </component>
   <component name="FileTemplateManager">
     <deleted_templates>
       <option name="DELETED_DEFAULT_TEMPLATES">
