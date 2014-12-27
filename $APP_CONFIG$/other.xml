@@ -562,7 +562,18 @@
       </profile-state>
     </entry>
     <entry key="cedarsoft">
-      <profile-state />
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
     </entry>
     <entry key="unnecessary fqn">
       <profile-state>
@@ -1957,13 +1968,6 @@
     <ignored-resource url="urn:idea:xslt-plugin#extensions" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
     <ignored-resource url="http://jakarta.apache.org/log4j" />
-  </component>
-  <component name="FileEditorProviderManager">
-    <option name="selectedProviders">
-      <map>
-        <entry key="text-editor,MavenHelperPluginDependencyAnalyzer" value="text-editor" />
-      </map>
-    </option>
   </component>
   <component name="FileTemplateManager">
     <deleted_templates>
