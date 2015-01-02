@@ -40,7 +40,7 @@
       <package name="" withSubpackages="true" static="false" />
     </value>
   </option>
-  <option name="RIGHT_MARGIN" value="140" />
+  <option name="RIGHT_MARGIN" value="220" />
   <option name="JD_ADD_BLANK_AFTER_RETURN" value="true" />
   <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
   <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
