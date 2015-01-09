@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="JProfilerCache" checksum="1229370559897">
     <jvm name="/usr/lib/jvm/java-1.5.0-sun">
@@ -8,8 +7,7 @@
       <entry key="T4" value="-Xint -Xshare:off -Xrunjprofiler:${PARAM}" />
     </jvm>
   </component>
-  <component name="TemplateCache" checksum="1320222452692">
-    <jvm name="/usr/lib/jvm/java-8-oracle" value="-agentpath:/opt/jprofiler7/bin/linux-x64/libjprofilerti.so=${PARAM} -Djprofiler.64bit=true" />
+  <component name="TemplateCache" checksum="1412936603028">
+    <jvm name="/usr/lib/jvm/java-8-oracle" value="-agentpath:/opt/jprofiler8/bin/linux-x64/libjprofilerti.so=${PARAM} -Djprofiler.64bit=true" />
   </component>
 </application>
-
