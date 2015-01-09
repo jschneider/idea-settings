@@ -20,6 +20,7 @@
       <mapping pattern="id" type="PLAIN_TEXT" />
       <mapping pattern="links" type="PLAIN_TEXT" />
       <mapping ext="props" type="PLAIN_TEXT" />
+      <mapping ext="cr4" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="dxf" type="PLAIN_TEXT" />
       <mapping ext="cypher" type="PLAIN_TEXT" />
@@ -37,12 +38,11 @@
       <mapping ext="translation" type="PLAIN_TEXT" />
       <mapping ext="rdoc" type="PLAIN_TEXT" />
       <mapping ext="h6m" type="PLAIN_TEXT" />
-      <mapping ext="has" type="PLAIN_TEXT" />
       <mapping ext="cr6" type="PLAIN_TEXT" />
       <mapping ext="cr3" type="PLAIN_TEXT" />
       <mapping ext="h40" type="PLAIN_TEXT" />
       <mapping ext="col" type="PLAIN_TEXT" />
-      <mapping ext="cr4" type="PLAIN_TEXT" />
+      <mapping ext="has" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="j3md" type="PLAIN_TEXT" />
       <mapping ext="svg" type="XML" />
