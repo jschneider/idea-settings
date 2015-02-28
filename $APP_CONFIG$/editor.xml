@@ -9,5 +9,5 @@
     <option name="SHOW_REFORMAT_DIALOG" value="false" />
     <option name="SHOW_OPIMIZE_IMPORTS_DIALOG" value="false" />
   </component>
-  <component name="LiveEditOptions" updatePolicy="AUTO" />
+  <component name="LiveEditOptions" restartIfHotSwapFailed="true" updatePolicy="AUTO" />
 </application>
