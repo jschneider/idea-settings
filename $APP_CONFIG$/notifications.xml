@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="NotificationConfiguration">
     <notification groupId="Grape" />
@@ -73,6 +72,6 @@
     <toolWindow group="LiveEdit" />
     <toolWindow group="notification.group.id.gradle" />
     <toolWindow group="Vcs Messages" />
+    <toolWindow group="Database Navigator" />
   </component>
 </application>
-

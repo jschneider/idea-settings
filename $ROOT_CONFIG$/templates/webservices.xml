@@ -19,25 +19,22 @@
       <option name="JAVA_COMMENT" value="true" />
       <option name="JAVA_STRING" value="true" />
       <option name="COMPLETION" value="true" />
+      <option name="SQL" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
       <option name="CSS_DECLARATION_BLOCK" value="false" />
       <option name="CSS_RULESET_LIST" value="false" />
       <option name="CSS" value="false" />
-      <option name="JSP" value="false" />
       <option name="SQL" value="false" />
       <option name="ColdFusion" value="false" />
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
+      <option name="CoffeeScript" value="false" />
       <option name="GROOVY" value="false" />
       <option name="GROOVY_EXPRESSION" value="false" />
       <option name="GROOVY_STATEMENT" value="false" />
       <option name="GROOVY_DECLARATION" value="false" />
       <option name="MAVEN" value="false" />
-      <option name="ACTION_SCRIPT" value="false" />
-      <option name="MXML" value="false" />
       <option name="HAML" value="false" />
-      <option name="CoffeeScript" value="false" />
       <option name="OTHER" value="true" />
     </context>
   </template>
@@ -59,25 +56,22 @@
       <option name="JAVA_COMMENT" value="true" />
       <option name="JAVA_STRING" value="true" />
       <option name="COMPLETION" value="true" />
+      <option name="SQL" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
       <option name="CSS_DECLARATION_BLOCK" value="false" />
       <option name="CSS_RULESET_LIST" value="false" />
       <option name="CSS" value="false" />
-      <option name="JSP" value="false" />
       <option name="SQL" value="false" />
       <option name="ColdFusion" value="false" />
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
+      <option name="CoffeeScript" value="false" />
       <option name="GROOVY" value="false" />
       <option name="GROOVY_EXPRESSION" value="false" />
       <option name="GROOVY_STATEMENT" value="false" />
       <option name="GROOVY_DECLARATION" value="false" />
       <option name="MAVEN" value="false" />
-      <option name="ACTION_SCRIPT" value="false" />
-      <option name="MXML" value="false" />
       <option name="HAML" value="false" />
-      <option name="CoffeeScript" value="false" />
       <option name="OTHER" value="true" />
     </context>
   </template>
@@ -99,25 +93,22 @@
       <option name="JAVA_COMMENT" value="true" />
       <option name="JAVA_STRING" value="true" />
       <option name="COMPLETION" value="true" />
+      <option name="SQL" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
       <option name="CSS_DECLARATION_BLOCK" value="false" />
       <option name="CSS_RULESET_LIST" value="false" />
       <option name="CSS" value="false" />
-      <option name="JSP" value="false" />
       <option name="SQL" value="false" />
       <option name="ColdFusion" value="false" />
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
+      <option name="CoffeeScript" value="false" />
       <option name="GROOVY" value="false" />
       <option name="GROOVY_EXPRESSION" value="false" />
       <option name="GROOVY_STATEMENT" value="false" />
       <option name="GROOVY_DECLARATION" value="false" />
       <option name="MAVEN" value="false" />
-      <option name="ACTION_SCRIPT" value="false" />
-      <option name="MXML" value="false" />
       <option name="HAML" value="false" />
-      <option name="CoffeeScript" value="false" />
       <option name="OTHER" value="true" />
     </context>
   </template>
@@ -138,25 +129,22 @@
       <option name="JAVA_COMMENT" value="true" />
       <option name="JAVA_STRING" value="true" />
       <option name="COMPLETION" value="true" />
+      <option name="SQL" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
       <option name="CSS_DECLARATION_BLOCK" value="false" />
       <option name="CSS_RULESET_LIST" value="false" />
       <option name="CSS" value="false" />
-      <option name="JSP" value="false" />
       <option name="SQL" value="false" />
       <option name="ColdFusion" value="false" />
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
+      <option name="CoffeeScript" value="false" />
       <option name="GROOVY" value="false" />
       <option name="GROOVY_EXPRESSION" value="false" />
       <option name="GROOVY_STATEMENT" value="false" />
       <option name="GROOVY_DECLARATION" value="false" />
       <option name="MAVEN" value="false" />
-      <option name="ACTION_SCRIPT" value="false" />
-      <option name="MXML" value="false" />
       <option name="HAML" value="false" />
-      <option name="CoffeeScript" value="false" />
       <option name="OTHER" value="true" />
     </context>
   </template>
@@ -177,25 +165,22 @@
       <option name="JAVA_COMMENT" value="true" />
       <option name="JAVA_STRING" value="true" />
       <option name="COMPLETION" value="true" />
+      <option name="SQL" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
       <option name="CSS_DECLARATION_BLOCK" value="false" />
       <option name="CSS_RULESET_LIST" value="false" />
       <option name="CSS" value="false" />
-      <option name="JSP" value="false" />
       <option name="SQL" value="false" />
       <option name="ColdFusion" value="false" />
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
+      <option name="CoffeeScript" value="false" />
       <option name="GROOVY" value="false" />
       <option name="GROOVY_EXPRESSION" value="false" />
       <option name="GROOVY_STATEMENT" value="false" />
       <option name="GROOVY_DECLARATION" value="false" />
       <option name="MAVEN" value="false" />
-      <option name="ACTION_SCRIPT" value="false" />
-      <option name="MXML" value="false" />
       <option name="HAML" value="false" />
-      <option name="CoffeeScript" value="false" />
       <option name="OTHER" value="true" />
     </context>
   </template>
@@ -216,25 +201,22 @@
       <option name="JAVA_COMMENT" value="true" />
       <option name="JAVA_STRING" value="true" />
       <option name="COMPLETION" value="true" />
+      <option name="SQL" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
       <option name="CSS_DECLARATION_BLOCK" value="false" />
       <option name="CSS_RULESET_LIST" value="false" />
       <option name="CSS" value="false" />
-      <option name="JSP" value="false" />
       <option name="SQL" value="false" />
       <option name="ColdFusion" value="false" />
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
+      <option name="CoffeeScript" value="false" />
       <option name="GROOVY" value="false" />
       <option name="GROOVY_EXPRESSION" value="false" />
       <option name="GROOVY_STATEMENT" value="false" />
       <option name="GROOVY_DECLARATION" value="false" />
       <option name="MAVEN" value="false" />
-      <option name="ACTION_SCRIPT" value="false" />
-      <option name="MXML" value="false" />
       <option name="HAML" value="false" />
-      <option name="CoffeeScript" value="false" />
       <option name="OTHER" value="true" />
     </context>
   </template>
@@ -254,25 +236,22 @@
       <option name="JAVA_COMMENT" value="true" />
       <option name="JAVA_STRING" value="true" />
       <option name="COMPLETION" value="true" />
+      <option name="SQL" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
       <option name="CSS_DECLARATION_BLOCK" value="false" />
       <option name="CSS_RULESET_LIST" value="false" />
       <option name="CSS" value="false" />
-      <option name="JSP" value="false" />
       <option name="SQL" value="false" />
       <option name="ColdFusion" value="false" />
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
+      <option name="CoffeeScript" value="false" />
       <option name="GROOVY" value="false" />
       <option name="GROOVY_EXPRESSION" value="false" />
       <option name="GROOVY_STATEMENT" value="false" />
       <option name="GROOVY_DECLARATION" value="false" />
       <option name="MAVEN" value="false" />
-      <option name="ACTION_SCRIPT" value="false" />
-      <option name="MXML" value="false" />
       <option name="HAML" value="false" />
-      <option name="CoffeeScript" value="false" />
       <option name="OTHER" value="true" />
     </context>
   </template>
@@ -292,25 +271,22 @@
       <option name="JAVA_COMMENT" value="true" />
       <option name="JAVA_STRING" value="true" />
       <option name="COMPLETION" value="true" />
+      <option name="SQL" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
       <option name="CSS_DECLARATION_BLOCK" value="false" />
       <option name="CSS_RULESET_LIST" value="false" />
       <option name="CSS" value="false" />
-      <option name="JSP" value="false" />
       <option name="SQL" value="false" />
       <option name="ColdFusion" value="false" />
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
+      <option name="CoffeeScript" value="false" />
       <option name="GROOVY" value="false" />
       <option name="GROOVY_EXPRESSION" value="false" />
       <option name="GROOVY_STATEMENT" value="false" />
       <option name="GROOVY_DECLARATION" value="false" />
       <option name="MAVEN" value="false" />
-      <option name="ACTION_SCRIPT" value="false" />
-      <option name="MXML" value="false" />
       <option name="HAML" value="false" />
-      <option name="CoffeeScript" value="false" />
       <option name="OTHER" value="true" />
     </context>
   </template>
@@ -330,25 +306,22 @@
       <option name="JAVA_COMMENT" value="true" />
       <option name="JAVA_STRING" value="true" />
       <option name="COMPLETION" value="true" />
+      <option name="SQL" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
       <option name="CSS_DECLARATION_BLOCK" value="false" />
       <option name="CSS_RULESET_LIST" value="false" />
       <option name="CSS" value="false" />
-      <option name="JSP" value="false" />
       <option name="SQL" value="false" />
       <option name="ColdFusion" value="false" />
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
+      <option name="CoffeeScript" value="false" />
       <option name="GROOVY" value="false" />
       <option name="GROOVY_EXPRESSION" value="false" />
       <option name="GROOVY_STATEMENT" value="false" />
       <option name="GROOVY_DECLARATION" value="false" />
       <option name="MAVEN" value="false" />
-      <option name="ACTION_SCRIPT" value="false" />
-      <option name="MXML" value="false" />
       <option name="HAML" value="false" />
-      <option name="CoffeeScript" value="false" />
       <option name="OTHER" value="true" />
     </context>
   </template>
@@ -370,25 +343,22 @@
       <option name="JAVA_COMMENT" value="true" />
       <option name="JAVA_STRING" value="true" />
       <option name="COMPLETION" value="true" />
+      <option name="SQL" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
       <option name="CSS_DECLARATION_BLOCK" value="false" />
       <option name="CSS_RULESET_LIST" value="false" />
       <option name="CSS" value="false" />
-      <option name="JSP" value="false" />
       <option name="SQL" value="false" />
       <option name="ColdFusion" value="false" />
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
+      <option name="CoffeeScript" value="false" />
       <option name="GROOVY" value="false" />
       <option name="GROOVY_EXPRESSION" value="false" />
       <option name="GROOVY_STATEMENT" value="false" />
       <option name="GROOVY_DECLARATION" value="false" />
       <option name="MAVEN" value="false" />
-      <option name="ACTION_SCRIPT" value="false" />
-      <option name="MXML" value="false" />
       <option name="HAML" value="false" />
-      <option name="CoffeeScript" value="false" />
       <option name="OTHER" value="true" />
     </context>
   </template>
@@ -411,25 +381,22 @@
       <option name="JAVA_COMMENT" value="true" />
       <option name="JAVA_STRING" value="true" />
       <option name="COMPLETION" value="true" />
+      <option name="SQL" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
       <option name="CSS_DECLARATION_BLOCK" value="false" />
       <option name="CSS_RULESET_LIST" value="false" />
       <option name="CSS" value="false" />
-      <option name="JSP" value="false" />
       <option name="SQL" value="false" />
       <option name="ColdFusion" value="false" />
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
+      <option name="CoffeeScript" value="false" />
       <option name="GROOVY" value="false" />
       <option name="GROOVY_EXPRESSION" value="false" />
       <option name="GROOVY_STATEMENT" value="false" />
       <option name="GROOVY_DECLARATION" value="false" />
       <option name="MAVEN" value="false" />
-      <option name="ACTION_SCRIPT" value="false" />
-      <option name="MXML" value="false" />
       <option name="HAML" value="false" />
-      <option name="CoffeeScript" value="false" />
       <option name="OTHER" value="true" />
     </context>
   </template>
@@ -452,25 +419,22 @@
       <option name="JAVA_COMMENT" value="true" />
       <option name="JAVA_STRING" value="true" />
       <option name="COMPLETION" value="true" />
+      <option name="SQL" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
       <option name="CSS_DECLARATION_BLOCK" value="false" />
       <option name="CSS_RULESET_LIST" value="false" />
       <option name="CSS" value="false" />
-      <option name="JSP" value="false" />
       <option name="SQL" value="false" />
       <option name="ColdFusion" value="false" />
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
+      <option name="CoffeeScript" value="false" />
       <option name="GROOVY" value="false" />
       <option name="GROOVY_EXPRESSION" value="false" />
       <option name="GROOVY_STATEMENT" value="false" />
       <option name="GROOVY_DECLARATION" value="false" />
       <option name="MAVEN" value="false" />
-      <option name="ACTION_SCRIPT" value="false" />
-      <option name="MXML" value="false" />
       <option name="HAML" value="false" />
-      <option name="CoffeeScript" value="false" />
       <option name="OTHER" value="true" />
     </context>
   </template>
@@ -487,25 +451,22 @@
       <option name="JAVA_COMMENT" value="true" />
       <option name="JAVA_STRING" value="true" />
       <option name="COMPLETION" value="true" />
+      <option name="SQL" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
       <option name="CSS_DECLARATION_BLOCK" value="false" />
       <option name="CSS_RULESET_LIST" value="false" />
       <option name="CSS" value="false" />
-      <option name="JSP" value="false" />
       <option name="SQL" value="false" />
       <option name="ColdFusion" value="false" />
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
+      <option name="CoffeeScript" value="false" />
       <option name="GROOVY" value="false" />
       <option name="GROOVY_EXPRESSION" value="false" />
       <option name="GROOVY_STATEMENT" value="false" />
       <option name="GROOVY_DECLARATION" value="false" />
       <option name="MAVEN" value="false" />
-      <option name="ACTION_SCRIPT" value="false" />
-      <option name="MXML" value="false" />
       <option name="HAML" value="false" />
-      <option name="CoffeeScript" value="false" />
       <option name="OTHER" value="true" />
     </context>
   </template>
