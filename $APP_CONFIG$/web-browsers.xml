@@ -8,7 +8,7 @@
     <browser id="bfee1b69-a97d-4338-8ba4-25170adcbaa6" name="Dartium" family="CHROME" path="/opt/google/chromium/chrome">
       <settings>
         <environment-variables>
-          <entry key="DART_FLAGS" value="--checked --enable-async" />
+          <entry key="DART_FLAGS" value="--checked" />
         </environment-variables>
       </settings>
     </browser>

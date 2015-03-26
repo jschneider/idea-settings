@@ -1,4 +1,4 @@
-<inspections profile_name="Important" version="1.0" is_locked="false">
+<inspections profile_name="Important" version="1.0">
   <option name="myName" value="Important" />
   <option name="myLocal" value="true" />
   <inspection_tool class="AbstractBeanReferencesInspection" enabled="false" level="ERROR" enabled_by_default="false" />

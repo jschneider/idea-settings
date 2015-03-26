@@ -1,4 +1,4 @@
-<inspections profile_name="Java 7 Features" version="1.0" is_locked="false">
+<inspections profile_name="Java 7 Features" version="1.0">
   <option name="myName" value="Java 7 Features" />
   <option name="myLocal" value="true" />
   <inspection_tool class="AccessStaticViaInstance" enabled="false" level="WARNING" enabled_by_default="false" />

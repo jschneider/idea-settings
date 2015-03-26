@@ -1257,12 +1257,6 @@
     <option name="UI_SHOW_FILES" value="false" />
     <option name="UI_GROUP_BY_SCOPE_TYPE" value="false" />
   </component>
-  <component name="DiffManager" COMPARISON_POLICY="Ignore spaces">
-    <enableFiles value="false" />
-    <enableFolders value="false" />
-    <filesTool newValue="" value="" />
-    <foldersTool newValue="" value="" />
-  </component>
   <component name="DimensionService">
     <location key="#com.intellij.j2ee.ejb.actions.EditEjbRelationshipDialog" x="474" y="449" />
     <location key="#Tomcat_Server" x="597" y="513" />
@@ -1982,22 +1976,19 @@
     <option name="EMAIL" value="" />
   </component>
   <component name="ExternalResourceManagerImpl">
+    <resource url="http://maven.apache.org/POM/4.0.0" location="$USER_HOME$/.IntelliJIdea8x/system/extResources/13b68825_assembly-1.0.0.xsd" />
     <resource url="http://maven.apache.org/xsd/assembly-1.0.0.xsd" location="$USER_HOME$/.IntelliJIdea8x/system/extResources/13b68825_assembly-1.0.0.xsd" />
     <resource url="http://maven.apache.org/xsd/decoration-1.0.0.xsd" location="$USER_HOME$/.IntelliJIdea8x/system/extResources/9c3a2f6f_decoration-1.0.0.xsd" />
-    <resource url="http://maven.apache.org/POM/4.0.0" location="$USER_HOME$/.IntelliJIdea8x/system/extResources/13b68825_assembly-1.0.0.xsd" />
-    <resource url="http://plugins.intellij.net/xstructure/ns/xstructure_1_1.xsd" location="$USER_HOME$/file:/home/johannes/.IntelliJIdea14/config/plugins/xstructure/lib/xstructure.jar!/org/sylfra/idea/plugins/xstructure/resources/schemas/xstructure_1_1.xsd" />
-    <resource url="http://www.w3.org/2001/XMLSchema-instance" location="$USER_HOME$/.IntelliJIdea8x/system/extResources/631eabe6_XMLSchema-instance.xml" />
     <resource url="http://plugins.intellij.net/xstructure/ns/xstructure_1_0.xsd" location="$USER_HOME$/file:/home/johannes/.IntelliJIdea14/config/plugins/xstructure/lib/xstructure.jar!/org/sylfra/idea/plugins/xstructure/resources/schemas/xstructure_1_0.xsd" />
+    <resource url="http://plugins.intellij.net/xstructure/ns/xstructure_1_1.xsd" location="$USER_HOME$/file:/home/johannes/.IntelliJIdea14/config/plugins/xstructure/lib/xstructure.jar!/org/sylfra/idea/plugins/xstructure/resources/schemas/xstructure_1_1.xsd" />
     <resource url="http://www.avat.de/jview/permissions.dtd" location="$USER_HOME$/projects/de.avat.jview/common/security/core/src/main/resources/permissions.dtd" />
     <resource url="http://www.topografix.com/GPX/1/0/gpx.xsd" location="$USER_HOME$/.IntelliJIdea8x/system/extResources/684cdad3_gpx.xsd" />
+    <resource url="http://www.w3.org/2001/XMLSchema-instance" location="$USER_HOME$/.IntelliJIdea8x/system/extResources/631eabe6_XMLSchema-instance.xml" />
+    <ignored-resource url="http://jakarta.apache.org/log4j" />
+    <ignored-resource url="http://www.terracotta.org/config" />
     <ignored-resource url="http://www.w3.org/1999/XSL/Format" />
     <ignored-resource url="http://www.w3.org/1999/xhtml" />
-    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
-    <ignored-resource url="http://www.terracotta.org/config" />
-    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
     <ignored-resource url="urn:idea:xslt-plugin#extensions" />
-    <ignored-resource url="http://www.w3.org/2000/svg" />
-    <ignored-resource url="http://jakarta.apache.org/log4j" />
   </component>
   <component name="FileTemplateManager">
     <deleted_templates>
@@ -2106,86 +2097,6 @@
     <option name="CHECKOUT_AFTER_IMPORT" value="true" />
     <option name="KEYWORD_SUBSTITUTION_WRAPPERS" value="MF kv;bat kv;bmp b;cgi kv;class b;cmd kv;cs kv;css kv;cvsignore kv;dtd kv;ear b;ent kv;form kv;gif b;hs kv;htm kv;html kv;ics kv;idl kv;iml kv;ini kv;ipr kv;iws kv;jad kv;jam kv;jar b;java kv;jhm kv;jnlp kv;jpeg b;jpg b;js kv;jsf kv;jsp kv;jspf kv;jspx kv;log kv;mf kv;mod kv;php kv;pl kv;png b;policy kv;product kv;properties kv;sh kv;sht kv;shtm kv;shtml kv;sql kv;tag kv;tagf kv;tagx kv;tld kv;txt kv;war b;wbmp b;wsdl kv;xhtml kv;xjsp kv;xml kv;xsd kv;xsl kv;zip b;" />
     <option name="MAKE_NEW_FILES_READ_ONLY" value="false" />
-  </component>
-  <component name="InspectionProfileManager">
-    <info color="ffff00">
-      <option name="BACKGROUND" value="ffff00" />
-      <option name="ERROR_STRIPE_COLOR" value="ffff00" />
-      <option name="EFFECT_TYPE" value="0" />
-      <option name="myName" value="GENERICS" />
-      <option name="myVal" value="50" />
-      <option name="myExternalName" value="GENERICS" />
-      <option name="myDefaultAttributes">
-        <option name="EFFECT_TYPE" value="0" />
-      </option>
-    </info>
-    <info color="ffffcc">
-      <option name="BACKGROUND" value="cdd1ff" />
-      <option name="EFFECT_TYPE" value="0" />
-      <option name="myName" value="MinorImprovementPossible" />
-      <option name="myVal" value="50" />
-      <option name="myExternalName" value="MinorImprovementPossible" />
-      <option name="myDefaultAttributes">
-        <option name="EFFECT_TYPE" value="0" />
-      </option>
-    </info>
-    <info color="ffffcc">
-      <option name="BACKGROUND" value="ccffcc" />
-      <option name="EFFECT_TYPE" value="0" />
-      <option name="myName" value="Spring Overwrite" />
-      <option name="myVal" value="50" />
-      <option name="myExternalName" value="Spring Overwrite" />
-      <option name="myDefaultAttributes">
-        <option name="EFFECT_TYPE" value="0" />
-      </option>
-    </info>
-    <info color="ccffcc">
-      <option name="EFFECT_COLOR" value="ccffcc" />
-      <option name="ERROR_STRIPE_COLOR" value="ccffcc" />
-      <option name="EFFECT_TYPE" value="1" />
-      <option name="myName" value="Serialization" />
-      <option name="myVal" value="50" />
-      <option name="myExternalName" value="Serialization" />
-      <option name="myDefaultAttributes">
-        <option name="EFFECT_TYPE" value="0" />
-      </option>
-    </info>
-    <info color="ccffcc">
-      <option name="BACKGROUND" value="ccffcc" />
-      <option name="ERROR_STRIPE_COLOR" value="ccffcc" />
-      <option name="EFFECT_TYPE" value="0" />
-      <option name="myName" value="i18n" />
-      <option name="myVal" value="300" />
-      <option name="myExternalName" value="i18n" />
-      <option name="myDefaultAttributes">
-        <option name="EFFECT_TYPE" value="0" />
-      </option>
-    </info>
-    <info color="ff">
-      <option name="EFFECT_COLOR" value="ccccff" />
-      <option name="ERROR_STRIPE_COLOR" value="ff" />
-      <option name="EFFECT_TYPE" value="2" />
-      <option name="myName" value="JAVADOC" />
-      <option name="myVal" value="700" />
-      <option name="myExternalName" value="JAVADOC" />
-      <option name="myDefaultAttributes">
-        <option name="EFFECT_TYPE" value="0" />
-      </option>
-    </info>
-    <list size="12">
-      <item index="0" class="java.lang.String" itemvalue="GENERICS" />
-      <item index="1" class="java.lang.String" itemvalue="MinorImprovementPossible" />
-      <item index="2" class="java.lang.String" itemvalue="TYPO" />
-      <item index="3" class="java.lang.String" itemvalue="Spring Overwrite" />
-      <item index="4" class="java.lang.String" itemvalue="Serialization" />
-      <item index="5" class="java.lang.String" itemvalue="SERVER PROBLEM" />
-      <item index="6" class="java.lang.String" itemvalue="WEAK WARNING" />
-      <item index="7" class="java.lang.String" itemvalue="INFO" />
-      <item index="8" class="java.lang.String" itemvalue="WARNING" />
-      <item index="9" class="java.lang.String" itemvalue="i18n" />
-      <item index="10" class="java.lang.String" itemvalue="ERROR" />
-      <item index="11" class="java.lang.String" itemvalue="JAVADOC" />
-    </list>
   </component>
   <component name="IntelliJadConfigComponent">
     <config>
@@ -2561,11 +2472,6 @@
     <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
     <option name="INTRODUCE_PARAMETER_CREATE_FINALS" value="false" />
-  </component>
-  <component name="Registry">
-    <entry key="fileIndex.background" value="true" />
-    <entry key="ide.firstStartup" value="false" />
-    <entry key="analyze.exceptions.on.the.fly" value="true" />
   </component>
   <component name="SSHPasswordProvider">
     <passwords>
@@ -3255,17 +3161,6 @@
   <component name="TeamCityHistory">
     <option name="HISTORY" value="http://build.cedarsoft.de:8111&amp;^%$#@johannes@#$%^&amp;http://build.cedarsoft.de:8111/&amp;^%$#@johannes@#$%^&amp;http://build.cedarsoft.eu:8111/&amp;^%$#@johannes@#$%^&amp;http://build.cedarsoft.eu:8111&amp;^%$#@johannes" />
   </component>
-  <component name="TemplateSettings">
-    <defaultShortcut shortcut="TAB" />
-  </component>
-  <component name="TodoConfiguration">
-    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\btodo\b.*">
-      <option name="FOREGROUND" value="ff" />
-      <option name="FONT_TYPE" value="3" />
-      <option name="ERROR_STRIPE_COLOR" value="ff" />
-      <option name="EFFECT_TYPE" value="0" />
-    </pattern>
-  </component>
   <component name="UsageFilteringRuleProvider">
     <option name="SHOW_IMPORTS" value="false" />
   </component>
@@ -3275,15 +3170,6 @@
     <option name="GROUP_BY_PACKAGE" value="false" />
     <option name="GROUP_BY_FILE_STRUCTURE" value="true" />
   </component>
-  <component name="UsageViewSettings">
-    <option name="expanded" value="true" />
-    <option name="filterDuplicatedLine" value="true" />
-    <option name="IS_EXPANDED" value="true" />
-    <option name="IS_FILTER_DUPLICATED_LINE" value="true" />
-    <option name="GROUP_BY_USAGE_TYPE" value="false" />
-    <option name="GROUP_BY_FILE_STRUCTURE" value="false" />
-    <option name="GROUP_BY_SCOPE" value="true" />
-  </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" />
   </component>
@@ -3291,20 +3177,6 @@
     <option name="selectedVisualVmHome" value="/usr/lib/jvm/java-6-sun-1.6.0.10" />
   </component>
   <component name="WebServicesPluginSettings" PathToXmlBeans="$USER_HOME$/.IntelliJIdea10/system/webservices/xmlbeans-2.3.0" />
-  <component name="XDebuggerSettings">
-    <data-views />
-    <general />
-    <debuggers>
-      <debugger id="groovy_debugger">
-        <configuration />
-      </debugger>
-      <debugger id="javascript">
-        <configuration>
-          <custom-object-presentation />
-        </configuration>
-      </debugger>
-    </debuggers>
-  </component>
   <component name="XPathView.XPathViewPlugin">
     <option name="SHOW_IN_TOOLBAR" value="true" />
     <option name="SHOW_IN_MAIN_MENU" value="true" />

@@ -27,7 +27,7 @@
     <EXCLUDED_PACKAGE NAME="sun.plugin2" />
     <EXCLUDED_PACKAGE NAME="sunw.io" />
   </component>
-  <component name="DaemonCodeAnalyzerSettings" profile="cedarsoft">
+  <component name="DaemonCodeAnalyzerSettings" profile="Important">
     <option name="SUPPRESS_WARNINGS" value="false" />
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
     <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="1" />

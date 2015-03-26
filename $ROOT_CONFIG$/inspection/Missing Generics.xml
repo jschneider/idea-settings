@@ -1,4 +1,4 @@
-<inspections profile_name="Missing 5.0 Features" version="1.0" is_locked="false">
+<inspections profile_name="Missing 5.0 Features" version="1.0">
   <option name="myName" value="Missing 5.0 Features" />
   <option name="myLocal" value="true" />
   <inspection_tool class="AbstractBeanReferencesInspection" enabled="false" level="ERROR" enabled_by_default="false" />

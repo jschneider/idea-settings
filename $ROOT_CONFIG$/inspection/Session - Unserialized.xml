@@ -1,4 +1,4 @@
-<inspections profile_name="Session - Unserialized" version="1.0" is_locked="false">
+<inspections profile_name="Session - Unserialized" version="1.0">
   <option name="myName" value="Session - Unserialized" />
   <option name="myLocal" value="true" />
   <inspection_tool class="AbstractBeanReferencesInspection" enabled="false" level="ERROR" enabled_by_default="false" />

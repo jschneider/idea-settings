@@ -10,8 +10,8 @@
       <mapping ext="tagx" type="XML" />
     </extensionMap>
   </component>
-  <component name="FileTypeManager" version="11">
-    <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.sbas;.IJI.*;vssver.scc;vssver2.scc;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.orig;*.lib;*~;__pycache__;.bundle;*.rbc;" />
+  <component name="FileTypeManager" version="13">
+    <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.IJI.*;.bundle;.git;.hg;.sbas;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping ext="tiff" type="Images" />
       <mapping pattern="version" type="PLAIN_TEXT" />
@@ -20,6 +20,7 @@
       <mapping pattern="id" type="PLAIN_TEXT" />
       <mapping pattern="links" type="PLAIN_TEXT" />
       <mapping ext="props" type="PLAIN_TEXT" />
+      <mapping ext="cr4" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="dxf" type="PLAIN_TEXT" />
       <mapping ext="cypher" type="PLAIN_TEXT" />
@@ -42,10 +43,8 @@
       <mapping ext="cr3" type="PLAIN_TEXT" />
       <mapping ext="h40" type="PLAIN_TEXT" />
       <mapping ext="col" type="PLAIN_TEXT" />
-      <mapping ext="cr4" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="j3md" type="PLAIN_TEXT" />
-      <mapping ext="svg" type="XML" />
       <mapping ext="gpx" type="XML" />
       <mapping ext="ufraw" type="XML" />
       <mapping ext="install4j" type="XML" />
@@ -54,8 +53,8 @@
       <mapping ext="jrxml" type="XML" />
       <mapping ext="jrtx" type="XML" />
       <mapping ext="fo" type="XML" />
+      <mapping ext="svg" type="XML" />
       <mapping ext="gxl" type="XML" />
     </extensionMap>
-    <setting name="fileTypeChangedCounter" value="1" />
   </component>
 </application>

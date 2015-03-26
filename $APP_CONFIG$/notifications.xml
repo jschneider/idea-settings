@@ -1,77 +1,59 @@
 <application>
   <component name="NotificationConfiguration">
-    <notification groupId="Grape" />
+    <notification groupId="AIR Packaging" />
+    <notification groupId="Analyze thread dump" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="Android Property Files Updating" />
     <notification groupId="Clean artifact" />
-    <notification groupId="FindInPath" displayType="TOOL_WINDOW" shouldLog="false" />
-    <notification groupId="Update Checker" displayType="STICKY_BALLOON" />
-    <notification groupId="Maven Import" displayType="STICKY_BALLOON" />
+    <notification groupId="Common Version Control Messages" displayType="TOOL_WINDOW" />
+    <notification groupId="Compile Dart to JavaScript" />
     <notification groupId="Compiler" displayType="NONE" />
+    <notification groupId="dart2js" />
+    <notification groupId="Database editor log" displayType="NONE" />
+    <notification groupId="Database refactoring log" displayType="NONE" />
+    <notification groupId="Database view" displayType="TOOL_WINDOW" />
+    <notification groupId="Debugger messages" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="Error Report" />
+    <notification groupId="Execution" displayType="NONE" />
     <notification groupId="External Executable Critical Failures" displayType="TOOL_WINDOW" />
-    <notification groupId="Git Minor Notifications" />
+    <notification groupId="Facet Detector" />
+    <notification groupId="File type recognized" />
+    <notification groupId="Flash app not compiled before launch" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="Framework Detection" />
+    <notification groupId="Git Important Errors" />
     <notification groupId="Git Important Messages" displayType="STICKY_BALLOON" />
     <notification groupId="Git Messages" displayType="TOOL_WINDOW" />
-    <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" />
-    <notification groupId="Framework Detection" />
+    <notification groupId="Git Minor Notifications" />
+    <notification groupId="Grape" />
     <notification groupId="Groovy DSL errors" />
-    <notification groupId="Project Loading Error" />
-    <notification groupId="IDE Fatal Errors" displayType="NONE" />
-    <notification groupId="AIR Packaging" />
-    <notification groupId="OSGi important errors" displayType="STICKY_BALLOON" />
-    <notification groupId="Flash app not compiled before launch" displayType="TOOL_WINDOW" shouldLog="false" />
-    <notification groupId="Plugin Settings Error" />
-    <notification groupId="JavaScript Library Management" displayType="STICKY_BALLOON" />
-    <notification groupId="update.available.group" displayType="STICKY_BALLOON" />
-    <notification groupId="Analyze thread dump" displayType="TOOL_WINDOW" shouldLog="false" />
-    <notification groupId="Error Report" />
-    <notification groupId="Android Property Files Updating" />
-    <notification groupId="Plugin Error" />
-    <notification groupId="Reformat Code" />
-    <notification groupId="Inspection Results" displayType="TOOL_WINDOW" />
-    <notification groupId="Facet Detector" />
-    <notification groupId="System Messages" />
-    <notification groupId="settings" />
-    <notification groupId="Indexing" shouldLog="false" />
-    <notification groupId="Task Group" displayType="STICKY_BALLOON" />
-    <notification groupId="Git Important Errors" />
-    <notification groupId="Maven" />
-    <notification groupId="Jenkins Rss" displayType="NONE" />
-    <notification groupId="Productivity Baloon" />
-    <notification groupId="Repository" />
-    <notification groupId="Debugger messages" displayType="TOOL_WINDOW" shouldLog="false" />
-    <notification groupId="JavaScript debugger" displayType="TOOL_WINDOW" shouldLog="false" />
-    <notification groupId="dart2js" />
-    <notification groupId="Execution" displayType="NONE" />
     <notification groupId="HotSwap" displayType="TOOL_WINDOW" />
-    <notification groupId="Test Runner" displayType="NONE" />
-    <notification groupId="Common Version Control Messages" displayType="TOOL_WINDOW" />
-    <notification groupId="System" displayType="STICKY_BALLOON" shouldLog="false" />
-    <notification groupId="Plugins Suggestion" displayType="STICKY_BALLOON" />
+    <notification groupId="IDE Fatal Errors" displayType="NONE" />
+    <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" />
+    <notification groupId="Indexing" shouldLog="false" />
+    <notification groupId="Inspection Results" displayType="TOOL_WINDOW" />
+    <notification groupId="JavaScript debugger" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="JavaScript Library Management" displayType="STICKY_BALLOON" />
+    <notification groupId="Jenkins Rss" displayType="NONE" />
+    <notification groupId="Maven" />
+    <notification groupId="Maven Import" displayType="STICKY_BALLOON" />
+    <notification groupId="OSGi important errors" displayType="STICKY_BALLOON" />
+    <notification groupId="OSGi Important Messages" displayType="STICKY_BALLOON" />
+    <notification groupId="Plugin Error" />
+    <notification groupId="Plugin Settings Error" />
     <notification groupId="Plugins Lifecycle Group" />
+    <notification groupId="Plugins Suggestion" displayType="STICKY_BALLOON" />
+    <notification groupId="Productivity Baloon" />
+    <notification groupId="Project Loading Error" />
+    <notification groupId="Reformat Code" />
+    <notification groupId="Repository" />
+    <notification groupId="settings" />
+    <notification groupId="Spring Configuration Check" displayType="STICKY_BALLOON" />
+    <notification groupId="System" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="System Messages" />
+    <notification groupId="Task Group" displayType="STICKY_BALLOON" />
+    <notification groupId="Test Runner" displayType="NONE" />
+    <notification groupId="Update Checker" displayType="STICKY_BALLOON" />
+    <notification groupId="update.available.group" displayType="STICKY_BALLOON" />
     <notification groupId="Vcs Important Messages" displayType="STICKY_BALLOON" />
     <notification groupId="Vcs Minor Notifications" />
-    <notification groupId="OSGi Important Messages" displayType="STICKY_BALLOON" />
-    <notification groupId="Compile Dart to JavaScript" />
-    <notification groupId="File type recognized" />
-    <notification groupId="Database view" displayType="TOOL_WINDOW" />
-    <notification groupId="Database refactoring log" displayType="NONE" />
-    <notification groupId="Database editor log" displayType="NONE" />
-    <notification groupId="Spring Configuration Check" displayType="STICKY_BALLOON" />
-    <toolWindow group="Git Messages" />
-    <toolWindow group="Common Version Control Messages" />
-    <toolWindow group="External Executable Critical Failures" />
-    <toolWindow group="HotSwap" />
-    <toolWindow group="FindInPath" />
-    <toolWindow group="Analyze thread dump" />
-    <toolWindow group="Inspection Results" />
-    <toolWindow group="Debugger messages" />
-    <toolWindow group="Flash app not compiled before launch" />
-    <toolWindow group="JavaScript debugger" />
-    <toolWindow group="Find in Path" />
-    <toolWindow group="Database view" />
-    <toolWindow group="Web Deployment: Remote Host" />
-    <toolWindow group="LiveEdit" />
-    <toolWindow group="notification.group.id.gradle" />
-    <toolWindow group="Vcs Messages" />
-    <toolWindow group="Database Navigator" />
   </component>
 </application>
